@@ -1,12 +1,3 @@
----
-
-````md
-# JavaScript Fundamentals & DOM (Hands-On Guide)
-
-Materi lengkap JavaScript dari dasar hingga manipulasi DOM dan studi kasus praktis. Cocok untuk perkuliahan, self-learning, dan bootcamp.
-
----
-
 ## Table of Contents
 
 - Apa itu JavaScript
@@ -424,19 +415,3 @@ arr.reduce((a,b)=>a+b);
 * Pisahkan file HTML, CSS, dan JavaScript
 
 ---
-
-## Penutup
-
-Materi ini mencakup:
-
-* Dasar JavaScript
-* Manipulasi DOM
-* Interaksi user
-* Studi kasus sederhana
-
-Langkah selanjutnya:
-
-* Mini project CRUD
-* Pendalaman ES6+
-* Framework seperti React atau Vue
-* Backend dengan Node.js
